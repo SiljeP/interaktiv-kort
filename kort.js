@@ -34,3 +34,5 @@ function gempunkt2info()
 {
 	document.querySelector("#PTag2").style.display = 'none';
 }
+
+// Alt over denne linje er opgaven med interaktiv kort
